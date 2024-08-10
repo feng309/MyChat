@@ -1,0 +1,65 @@
+﻿  AsioIOServicePool.cpp
+  ChatGrpcClient.cpp
+C:\Users\w3151\Desktop\全栈聊天项目_学习笔记\llfcchat-master\llfcchat-master\server\ChatServer\AsioIOServicePool.h(3,10): error C1083: 无法打开包括文件: “boost/asio.hpp”: No such file or directory
+  (编译源文件“AsioIOServicePool.cpp”)
+  
+C:\Users\w3151\Desktop\全栈聊天项目_学习笔记\llfcchat-master\llfcchat-master\server\ChatServer\ConfigMgr.h(3,10): error C1083: 无法打开包括文件: “boost/property_tree/ptree.hpp”: No such file or directory
+  (编译源文件“ChatGrpcClient.cpp”)
+  
+  ChatServer.cpp
+C:\Users\w3151\Desktop\全栈聊天项目_学习笔记\llfcchat-master\llfcchat-master\server\ChatServer\CSession.h(2,10): error C1083: 无法打开包括文件: “boost/asio.hpp”: No such file or directory
+  (编译源文件“ChatServer.cpp”)
+  
+  ChatServiceImpl.cpp
+C:\Users\w3151\Desktop\全栈聊天项目_学习笔记\llfcchat-master\llfcchat-master\server\ChatServer\ChatServiceImpl.h(2,10): error C1083: 无法打开包括文件: “grpcpp/grpcpp.h”: No such file or directory
+  (编译源文件“ChatServiceImpl.cpp”)
+  
+  ConfigMgr.cpp
+C:\Users\w3151\Desktop\全栈聊天项目_学习笔记\llfcchat-master\llfcchat-master\server\ChatServer\ConfigMgr.h(3,10): error C1083: 无法打开包括文件: “boost/property_tree/ptree.hpp”: No such file or directory
+  (编译源文件“ConfigMgr.cpp”)
+  
+  CServer.cpp
+C:\Users\w3151\Desktop\全栈聊天项目_学习笔记\llfcchat-master\llfcchat-master\server\ChatServer\CServer.h(2,10): error C1083: 无法打开包括文件: “boost/asio.hpp”: No such file or directory
+  (编译源文件“CServer.cpp”)
+  
+  CSession.cpp
+C:\Users\w3151\Desktop\全栈聊天项目_学习笔记\llfcchat-master\llfcchat-master\server\ChatServer\CSession.h(2,10): error C1083: 无法打开包括文件: “boost/asio.hpp”: No such file or directory
+  (编译源文件“CSession.cpp”)
+  
+  LogicSystem.cpp
+C:\Users\w3151\Desktop\全栈聊天项目_学习笔记\llfcchat-master\llfcchat-master\server\ChatServer\CSession.h(2,10): error C1083: 无法打开包括文件: “boost/asio.hpp”: No such file or directory
+  (编译源文件“LogicSystem.cpp”)
+  
+  message.grpc.pb.cc
+C:\Users\w3151\Desktop\全栈聊天项目_学习笔记\llfcchat-master\llfcchat-master\server\ChatServer\message.pb.h(10,10): error C1083: 无法打开包括文件: “google/protobuf/port_def.inc”: No such file or directory
+  (编译源文件“message.grpc.pb.cc”)
+  
+  message.pb.cc
+C:\Users\w3151\Desktop\全栈聊天项目_学习笔记\llfcchat-master\llfcchat-master\server\ChatServer\message.pb.h(10,10): error C1083: 无法打开包括文件: “google/protobuf/port_def.inc”: No such file or directory
+  (编译源文件“message.pb.cc”)
+  
+  MsgNode.cpp
+C:\Users\w3151\Desktop\全栈聊天项目_学习笔记\llfcchat-master\llfcchat-master\server\ChatServer\MsgNode.h(5,10): error C1083: 无法打开包括文件: “boost/asio.hpp”: No such file or directory
+  (编译源文件“MsgNode.cpp”)
+  
+  MysqlDao.cpp
+C:\Users\w3151\Desktop\全栈聊天项目_学习笔记\llfcchat-master\llfcchat-master\server\ChatServer\MysqlDao.h(4,10): error C1083: 无法打开包括文件: “jdbc/mysql_driver.h”: No such file or directory
+  (编译源文件“MysqlDao.cpp”)
+  
+  MysqlMgr.cpp
+C:\Users\w3151\Desktop\全栈聊天项目_学习笔记\llfcchat-master\llfcchat-master\server\ChatServer\MysqlDao.h(4,10): error C1083: 无法打开包括文件: “jdbc/mysql_driver.h”: No such file or directory
+  (编译源文件“MysqlMgr.cpp”)
+  
+  RedisMgr.cpp
+C:\Users\w3151\Desktop\全栈聊天项目_学习笔记\llfcchat-master\llfcchat-master\server\ChatServer\RedisMgr.h(3,10): error C1083: 无法打开包括文件: “hiredis.h”: No such file or directory
+  (编译源文件“RedisMgr.cpp”)
+  
+  StatusGrpcClient.cpp
+C:\Users\w3151\Desktop\全栈聊天项目_学习笔记\llfcchat-master\llfcchat-master\server\ChatServer\ConfigMgr.h(3,10): error C1083: 无法打开包括文件: “boost/property_tree/ptree.hpp”: No such file or directory
+  (编译源文件“StatusGrpcClient.cpp”)
+  
+  UserMgr.cpp
+C:\Users\w3151\Desktop\全栈聊天项目_学习笔记\llfcchat-master\llfcchat-master\server\ChatServer\CSession.h(2,10): error C1083: 无法打开包括文件: “boost/asio.hpp”: No such file or directory
+  (编译源文件“UserMgr.cpp”)
+  
+  正在生成代码...
